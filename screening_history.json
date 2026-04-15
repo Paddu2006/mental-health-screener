@@ -1,0 +1,12 @@
+[
+  {
+    "name": "TestUser",
+    "date": "15-04-2026 19:36",
+    "phq_score": 8,
+    "phq_severity": "Mild",
+    "gad_score": 4,
+    "gad_severity": "None/Minimal",
+    "stress_score": 18,
+    "stress_severity": "Moderate Stress"
+  }
+]

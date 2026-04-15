@@ -1,0 +1,40 @@
+============================================================
+MENTAL HEALTH SCREENING REPORT
+CONFIDENTIAL
+Generated: 15-04-2026 19:36:33
+Author: Padma Shree | Phase 3 - Project 5
+============================================================
+
+Name     : TestUser
+Date     : 15-04-2026
+
+SCREENING RESULTS
+----------------------------------------
+PHQ-9 Depression Score : 8/27 — Mild
+GAD-7 Anxiety Score    : 4/21 — None/Minimal
+Stress Scale Score     : 18/40 — Moderate Stress
+ML Classification      : Mild Issues
+ML Model Accuracy      : 100.0%
+
+RECOMMENDATIONS
+----------------------------------------
+  - Regular exercise helps maintain good mental health
+  - Limit alcohol and caffeine consumption
+  - Practice progressive muscle relaxation
+  - Monitor your symptoms over the next 2 weeks
+  - Continue maintaining your current healthy habits
+  - Ensure 7-8 hours of quality sleep
+  - Spend time in nature
+  - Practice relaxation techniques like deep breathing
+
+IMPORTANT HELPLINES (India)
+----------------------------------------
+  iCall              : 9152987821
+  NIMHANS            : 080-46110007
+  Vandrevala 24x7    : 1860-2662-345
+  AASRA              : 9820466627
+
+============================================================
+DISCLAIMER: This is a screening tool, not a diagnosis.
+Please consult a qualified mental health professional.
+============================================================
